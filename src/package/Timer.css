@@ -1,0 +1,40 @@
+body{
+    background-color:#000 !important;
+}
+.boxs{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60vh;
+    width: 100%;
+}
+.box{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    color: #fff;
+    font-size: 60px;
+    line-height: 300px;
+    text-align: center;
+    margin-right: 20px;
+}
+.box1{
+    background: brown;
+
+}
+.box2{
+    background: blue;
+}
+.box3{
+    background: crimson;
+}
+.buttons{
+    text-align: center;
+    width: 100%;
+}
+
+.btn{
+    margin: 12px;
+    padding: 12px;
+    width: 50%;
+}
